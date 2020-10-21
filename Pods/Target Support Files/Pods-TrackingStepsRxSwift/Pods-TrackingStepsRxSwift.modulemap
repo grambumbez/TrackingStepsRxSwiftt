@@ -1,0 +1,6 @@
+framework module Pods_TrackingStepsRxSwift {
+  umbrella header "Pods-TrackingStepsRxSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
